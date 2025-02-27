@@ -3,7 +3,7 @@
 ![Babak Profile photo.](assets/standing_profile.jpg)
 -->
 
-<img src="assets/standing_profile.jpg" width="200" >
+<img src="assets/standing_profile.jpg" width="450" >
 
 🔭 I’m currently working on a stealth startup in education and AI
 
