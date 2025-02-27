@@ -1,6 +1,7 @@
 ## Hi there 👋
-
+<!--
 ![Babak Profile photo.](assets/standing_profile.jpg)
+-->
 
 <img src="assets/standing_profile.jpg" width="200" >
 
