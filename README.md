@@ -5,6 +5,8 @@
 
 <img src="assets/standing_profile.jpg" width="450" >
 
+I'm Babak Banijamali. An Agile/Scrum experienced Project Manager and Product enthusiast. I have a technical background in software development, and most recently in digitization of energy projects. 
+
 🔭 I’m currently working on a stealth startup in education and AI
 
 🌱 I’m currently learning Full Stack Web Development & Data Science/Analytics from first principles. Part review, part deeper learning so I can apply it to my startup. 
