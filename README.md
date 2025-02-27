@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Babak Profile photo.](assets/standing_profile.jpg)
+
 🔭 I’m currently working on a stealth startup in education and AI
 
 🌱 I’m currently learning Full Stack Web Development & Data Science/Analytics
