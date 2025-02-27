@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on a stealth startup in education and AI
 
-🌱 I’m currently learning Full Stack Web Development & Data Science/Analytics
+🌱 I’m currently learning Full Stack Web Development & Data Science/Analytics from first principles. Part review, part deeper learning so I can apply it to my startup. 
 
 👯 I’m looking to collaborate on digital literacy education for all
 
