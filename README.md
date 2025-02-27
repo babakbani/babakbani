@@ -1,7 +1,11 @@
 ## Hi there 👋
+
 🔭 I’m currently working on a stealth startup in education and AI
+
 🌱 I’m currently learning Full Stack Web Development & Data Science/Analytics
+
 👯 I’m looking to collaborate on digital literacy education for all
+
 😄 Pronouns: he/him
 
 <!--
