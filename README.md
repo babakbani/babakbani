@@ -1,9 +1,9 @@
 ## Hi there 👋
 <!--
-![Babak Profile photo.](assets/standing_profile.jpg)
+![Babak Profile photo.](assets/babak_at_my_desk.jpg)
 -->
 
-<img src="assets/standing_profile.jpg" width="450" >
+<img src="assets/babak_at_my_desk.jpg" width="450" >
 
 I'm Babak Banijamali. An Agile/Scrum experienced Project Manager and Product enthusiast. I have a technical background in software development, and most recently in digitization of energy projects. 
 
